@@ -1,0 +1,37 @@
+{
+    "owner": "SentryPeer",
+    "name": "SentryPeer",
+    "contributors": 4,
+    "issues": 3,
+    "stars": 58,
+    "forks": 7,
+    "languages": {
+        "C": 70.4,
+        "JavaScript": 9.3,
+        "Vue": 4.3,
+        "Perl": 4.0,
+        "M4": 3.3,
+        "Makefile": 2.1,
+        "Other": 6.6
+    },
+    "tags": [
+        "security",
+        "machine-learning",
+        "sip",
+        "honeypot",
+        "peer-to-peer",
+        "geolocation",
+        "p2p",
+        "software-engineering",
+        "voip",
+        "fraud-prevention",
+        "phonenumber",
+        "telecommunications",
+        "fraud-detection",
+        "security-tools",
+        "chaos-engineering",
+        "fraud",
+        "telecoms-intelligence"
+    ],
+    "moreLink": "https://github.com/SentryPeer/SentryPeer/issues/1"
+}

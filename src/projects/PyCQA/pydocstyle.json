@@ -1,0 +1,17 @@
+{
+    "owner": "PyCQA",
+    "name": "pydocstyle",
+    "contributors": 75,
+    "issues": 82,
+    "stars": 849,
+    "forks": 159,
+    "languages": {
+        "Python": 100.0
+    },
+    "tags": [
+        "python",
+        "linter",
+        "docstrings"
+    ],
+    "moreLink": "https://github.com/PyCQA/pydocstyle/issues/575"
+}

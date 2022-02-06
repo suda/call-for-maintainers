@@ -1,6 +1,6 @@
 <script>
 	import Project from '../components/Project.svelte';
-    import projects from '../projects.json';
+	import projects from '../projects/index';
 
 	const sortedProjects = projects.sort((a, b) => b.stars - a.stars);
 </script>

@@ -1,0 +1,26 @@
+{
+    "owner": "amacneil",
+    "name": "dbmate",
+    "contributors": 24,
+    "issues": 33,
+    "stars": 2335,
+    "forks": 160,
+    "languages": {
+        "Go": 98.5,
+        "Other": 1.5
+    },
+    "tags": [
+        "nodejs",
+        "mysql",
+        "python",
+        "docker",
+        "golang",
+        "migrations",
+        "sqlite",
+        "postgresql",
+        "migration",
+        "database-migrations",
+        "database-schema"
+    ],
+    "moreLink": "https://github.com/amacneil/dbmate/issues/258"
+}

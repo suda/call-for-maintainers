@@ -1,0 +1,18 @@
+{
+    "owner": "suda",
+    "name": "dvsync",
+    "contributors": 3,
+    "issues": 0,
+    "stars": 55,
+    "forks": 4,
+    "languages": {
+        "Shell": 100.0
+    },
+    "tags": [
+        "docker",
+        "kubernetes",
+        "tunnel",
+        "containers"
+    ],
+    "moreLink": ""
+}
