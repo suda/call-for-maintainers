@@ -10,6 +10,6 @@
 		We all are passionate about the things we built but sometimes we can ran out of steam. This
 		becomes more painful when others are depending on it and we just don't want to let them down.
 		Maybe a spare hand could help? Here you can post your project as one looking for additional
-		maintainers and hopefully find some likeminded souls to keep it going.
+		maintainers and hopefully find some likeminded souls to keep it going. ❤️
 	</p>
 </div>

@@ -7,16 +7,15 @@
 <div
 	class="relative flex items-center justify-between max-w-screen-xl mx-auto"
 >
-	<a href="#">
+	<a href="/">
 		<img class="h-7" src="static/logo.svg" alt="logo placeholder" />
 	</a>
 	<nav
 		class="absolute left-0 flex-col items-center justify-center hidden w-full p-8 space-y-4 font-semibold bg-gray-200 md:flex md:p-0 md:space-y-0 md:flex-row md:space-x-4 lg:space-x-8 top-16 md:top-0 md:w-auto md:relative md:bg-transparent"
 	>
-		<a href="#" class="hover:opacity-70">Course</a>
-		<a href="#" class="hover:opacity-70">Author</a>
-		<a href="#" class="hover:opacity-70">Blog</a>
-		<a href="#" class="hover:opacity-70">Contact</a>
+		<a href="/" class="hover:opacity-70">Home</a>
+		<a href="/list" class="hover:opacity-70">List</a>
+		<a href="/add" class="hover:opacity-70 rounded-full bg-gray-800 text-gray-200 px-4 py-2">Add your project</a>
 	</nav>
 
 	<button class="relative z-30 block p-1 mt-1 text-gray-800 rounded-md w-9 md:hidden" on:click="{ () => mobileMenu = !mobileMenu }" >
@@ -34,17 +33,14 @@
 		class="absolute inset-x-0 z-50 w-full py-2 origin-top-right transform top-10 ransition md:hidden"
 	>
 		<nav class="p-3 transform bg-white rounded-lg shadow-lg">
-			<a href="#" class="block px-6 py-3 font-semibold border-b hover:opacity-70 border-blue-50"
-				>Course</a
+			<a href="/" class="block px-6 py-3 font-semibold border-b hover:opacity-70 border-blue-50"
+				>Home</a
 			>
-			<a href="#" class="block px-6 py-3 font-semibold border-b hover:opacity-70 border-blue-50"
-				>Author</a
+			<a href="/list" class="block px-6 py-3 font-semibold border-b hover:opacity-70 border-blue-50"
+				>List</a
 			>
-			<a href="#" class="block px-6 py-3 font-semibold border-b hover:opacity-70 border-blue-50"
-				>Blog</a
-			>
-			<a href="#" class="block px-6 py-3 font-semibold border-b hover:opacity-70 border-blue-50"
-				>Contact</a
+			<a href="/add" class="block font-semibold border-b hover:opacity-70 border-blue-50 rounded-full bg-gray-800 text-gray-200 px-4 py-2 mt-3"
+				>Add your project</a
 			>
 		</nav>
 	</div>
