@@ -1,4 +1,4 @@
 // FILE AUTOMATICALLY GENERATED. DO NOT MODIFY
-import dbmate from './dbmate.json';
+import p0 from './dbmate.json';
 
-export default [dbmate];
+export default [p0];

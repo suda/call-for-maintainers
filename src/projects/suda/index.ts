@@ -1,4 +1,4 @@
 // FILE AUTOMATICALLY GENERATED. DO NOT MODIFY
-import dvsync from './dvsync.json';
+import p0 from './dvsync.json';
 
-export default [dvsync];
+export default [p0];

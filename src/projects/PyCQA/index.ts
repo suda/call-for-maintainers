@@ -1,4 +1,4 @@
 // FILE AUTOMATICALLY GENERATED. DO NOT MODIFY
-import pydocstyle from './pydocstyle.json';
+import p1 from './pydocstyle.json';
 
-export default [pydocstyle];
+export default [p1];

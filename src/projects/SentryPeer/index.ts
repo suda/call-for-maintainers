@@ -1,4 +1,4 @@
 // FILE AUTOMATICALLY GENERATED. DO NOT MODIFY
-import SentryPeer from './SentryPeer.json';
+import p0 from './SentryPeer.json';
 
-export default [SentryPeer];
+export default [p0];
