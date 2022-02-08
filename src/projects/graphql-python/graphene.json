@@ -1,0 +1,20 @@
+{
+    "owner": "graphql-python",
+    "name": "graphene",
+    "issues": 142,
+    "stars": 7046,
+    "forks": 757,
+    "languages": {
+        "Python": 99.6734146750141,
+        "Makefile": 0.20685768252372466,
+        "Shell": 0.11972764246218526
+    },
+    "tags": [
+        "framework",
+        "graphene",
+        "graphql",
+        "python",
+        "relay"
+    ],
+    "moreLink": "https://github.com/graphql-python/graphene/issues/1312"
+}
