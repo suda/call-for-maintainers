@@ -8,7 +8,7 @@
 	class="relative flex items-center justify-between max-w-screen-xl mx-auto"
 >
 	<a href="/">
-		<img class="h-7" src="logo.svg" alt="logo placeholder" />
+		<img class="h-7" src="logotype.svg" alt="logo placeholder" />
 	</a>
 	<nav
 		class="absolute left-0 flex-col items-center justify-center hidden w-full p-8 space-y-4 font-semibold bg-gray-200 md:flex md:p-0 md:space-y-0 md:flex-row md:space-x-4 lg:space-x-8 top-16 md:top-0 md:w-auto md:relative md:bg-transparent"
