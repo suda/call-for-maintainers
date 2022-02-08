@@ -4,7 +4,6 @@ import Tags from "./Tags.svelte";
 
 	export let owner: string;
 	export let name: string;
-	export let contributors: number;
 	export let issues: number;
 	export let stars: number;
 	export let forks: number;
