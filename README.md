@@ -1,40 +1,58 @@
-# create-svelte
+<h1 align="center">
+	<a href="https://callformaintainers.org/"><img height="100%" alt="Call for Maintainers" src="static/social-banner.svg"></a>
+</h1>
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+> A public list of projects looking for additional maintainers. See at: https://callformaintainers.org/
 
-## Creating a project
+## Submitting a new project
 
-If you're seeing this, you've probably already done this step. Congrats!
+All projects are kept in the same repository as this website as JSON files. There are some scripts to make your life easier and following the instructions above should do the trick.
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
+1. Clone your fork locally
+```
+git clone "git@github.com:YOUR_NAME/call-for-maintainers.git"
+```
+2. Install dependencies
+```
+cd call-for-maintainers
+npm install
 ```
 
-> Note: the `@next` is temporary
+3. Run the script that fetches your repo
+```
+./scripts/fetch-repo.js OWNER/REPO
+```
+
+4. If you have a PR with details about becoming maintainer set it in the `moreLink` property in the JSON file
+```
+vi src/projects/OWNER/REPO.json
+```
+
+5. Run the script that generates the index
+```
+./scripts/build-index.js
+```
+
+6. Commit your changes
+```
+git add -a .
+git commit -m "Added OWNER/REPO"
+```
+
+7. Push your changes and create a PR
+```
+git push
+```
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+This project was done with [Svelte]() and [SvelteKit]().
+After checking out, install dependencies and start the development server:
 
 ```bash
+npm install
 npm run dev
 
 # or start the server and open the app in a new browser tab
 npm run dev -- --open
 ```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment.

@@ -33,6 +33,9 @@
 <span style:color={colors['red']}>npm</span> <span style:color={colors['cyan']}>install</span>
 <span style:color={colors['comment']}># Run the script that fetches your repo</span>
 <span style:color={colors['orange']}>./scripts/fetch-repo.js</span> OWNER/REPO
+<span style:color={colors['comment']}># If you have a PR with details about becoming maintainer</span>
+<span style:color={colors['comment']}># set it in the "moreLink" property in the JSON file</span>
+<span style:color={colors['red']}>vi</span> src/projects/OWNER/REPO.json
 <span style:color={colors['comment']}># Run the script that generates the index</span>
 <span style:color={colors['orange']}>./scripts/build-index.js</span>
 <span style:color={colors['comment']}># Commit your changes</span>
