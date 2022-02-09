@@ -46,7 +46,7 @@ git push
 
 ## Developing
 
-This project was done with [Svelte]() and [SvelteKit]().
+This project was done with [Svelte](https://svelte.dev/) and [SvelteKit](https://kit.svelte.dev/).
 After checking out, install dependencies and start the development server:
 
 ```bash
