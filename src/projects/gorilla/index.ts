@@ -1,4 +1,4 @@
 // FILE AUTOMATICALLY GENERATED. DO NOT MODIFY
-import p0 from './mux.json';
+import p1 from './mux.json';
 
-export default [p0];
+export default [p1];
