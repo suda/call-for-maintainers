@@ -1,7 +1,25 @@
 <script>
+	import { afterUpdate, beforeUpdate } from 'svelte';
+	import { useAckeeSapper } from 'svelte-ackee';
 	import Navigation from '../components/Navigation.svelte';
 	import Footer from '../components/Footer.svelte';
 	import '../app.css';
+
+	// Initialize Ackee only in the browser
+	if (typeof navigator !== 'undefined') {
+    useAckeeSapper(
+      beforeUpdate,
+      afterUpdate,
+      {
+        server: import.meta.env.VITE_ACKEE_SERVER,
+        domainId: import.meta.env.VITE_ACKEE_DOMAIN_ID,
+      },
+      {
+        ignoreLocalhost: false,
+        detailed: true,
+      }
+    );
+  }
 </script>
 
 <svelte:head>
