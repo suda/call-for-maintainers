@@ -1,0 +1,21 @@
+{
+    "owner": "react-native-maps",
+    "name": "react-native-maps",
+    "issues": 117,
+    "stars": 12938,
+    "forks": 4470,
+    "languages": {
+        "Objective-C": 40.09043737776823,
+        "JavaScript": 33.680122994833766,
+        "Java": 25.810601521608884,
+        "Ruby": 0.30364349585683764,
+        "Starlark": 0.06805412677059429,
+        "Shell": 0.04714048316169073
+    },
+    "tags": [
+        "google-maps",
+        "maps",
+        "react-native"
+    ],
+    "moreLink": "https://github.com/react-native-maps/react-native-maps/issues/3564"
+}

@@ -5,7 +5,8 @@ import p2 from './amacneil';
 import p3 from './electron-userland';
 import p4 from './gorilla';
 import p5 from './graphql-python';
-import p7 from './suda';
+import p7 from './react-native-maps';
+import p8 from './suda';
 
 export default []
 	.concat(p0)
@@ -15,4 +16,5 @@ export default []
 	.concat(p4)
 	.concat(p5)
 	.concat(p7)
+	.concat(p8)
 ;
