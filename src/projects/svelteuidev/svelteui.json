@@ -1,0 +1,27 @@
+{
+	"owner": "svelteuidev",
+	"name": "svelteui",
+	"issues": 2,
+	"stars": 97,
+	"forks": 6,
+	"languages": {
+		"Svelte": 52.51445060061029,
+		"TypeScript": 41.87585850856895,
+		"JavaScript": 4.546292625814719,
+		"HTML": 0.8555124316650226,
+		"Shell": 0.20788583334101574
+	},
+	"tags": [
+		"svelte",
+		"sveltekit",
+		"svelteui",
+		"ui",
+		"components",
+		"ui-kit",
+		"library",
+		"frontend",
+		"design",
+		"stitches"
+	],
+	"moreLink": "https://github.com/svelteuidev/svelteui"
+}
