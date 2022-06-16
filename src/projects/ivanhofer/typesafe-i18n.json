@@ -1,0 +1,26 @@
+{
+    "owner": "ivanhofer",
+    "name": "typesafe-i18n",
+    "issues": 2,
+    "stars": 926,
+    "forks": 29,
+    "languages": {
+        "TypeScript": 100
+    },
+    "tags": [
+        "angular",
+        "angular2",
+        "i18n",
+        "internationalization",
+        "javascript",
+        "lightweight",
+        "localization",
+        "nodejs",
+        "react",
+        "solid",
+        "svelte",
+        "typescript",
+        "vue"
+    ],
+    "moreLink": "https://github.com/ivanhofer/typesafe-i18n/discussions/323"
+}
