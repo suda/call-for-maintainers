@@ -1,4 +1,4 @@
 // FILE AUTOMATICALLY GENERATED. DO NOT MODIFY
-import p0 from './typesafe-i18n.json';
+import p1 from './typesafe-i18n.json';
 
-export default [p0];
+export default [p1];

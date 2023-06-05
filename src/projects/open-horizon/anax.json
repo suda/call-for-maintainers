@@ -1,0 +1,20 @@
+{
+    "owner": "open-horizon",
+    "name": "anax",
+    "issues": 167,
+    "stars": 64,
+    "forks": 95,
+    "languages": {
+        "Go": 84.28543898470089,
+        "Shell": 14.581685855162622,
+        "Makefile": 1.0879468620326442,
+        "Dockerfile": 0.04492829810384244
+    },
+    "tags": [
+        "agent",
+        "edge-computing",
+        "hacktoberfest",
+        "open-horizon"
+    ],
+    "moreLink": "https://github.com/open-horizon/.github/blob/master/CONTRIBUTING.md"
+}
