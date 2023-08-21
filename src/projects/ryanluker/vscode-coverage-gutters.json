@@ -1,0 +1,27 @@
+{
+    "owner": "ryanluker",
+    "name": "vscode-coverage-gutters",
+    "issues": 31,
+    "stars": 381,
+    "forks": 81,
+    "languages": {
+        "TypeScript": 80.40498662335929,
+        "Java": 8.864672331144428,
+        "HTML": 3.3382760216850644,
+        "Ruby": 3.26452797326241,
+        "JavaScript": 1.620887957885157,
+        "PHP": 1.1815378821757243,
+        "Dockerfile": 0.6252893041793176,
+        "C#": 0.3789394402993857,
+        "Python": 0.2730246899051475,
+        "Shell": 0.04785777610406321
+    },
+    "tags": [
+        "coverage-gutters",
+        "lcov",
+        "test-coverage",
+        "visual-studio-code",
+        "vscode-extension"
+    ],
+    "moreLink": "https://github.com/ryanluker/vscode-coverage-gutters#call-for-maintainers"
+}

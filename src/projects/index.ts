@@ -8,8 +8,9 @@ import p5 from './graphql-python';
 import p7 from './ivanhofer';
 import p8 from './open-horizon';
 import p9 from './react-native-maps';
-import p10 from './suda';
-import p11 from './svelteuidev';
+import p10 from './ryanluker';
+import p11 from './suda';
+import p12 from './svelteuidev';
 
 export default []
 	.concat(p0)
@@ -23,4 +24,5 @@ export default []
 	.concat(p9)
 	.concat(p10)
 	.concat(p11)
+	.concat(p12)
 ;
