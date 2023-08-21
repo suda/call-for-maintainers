@@ -1,4 +1,4 @@
 // FILE AUTOMATICALLY GENERATED. DO NOT MODIFY
-import p0 from './vscode-coverage-gutters.json';
+import p1 from './vscode-coverage-gutters.json';
 
-export default [p0];
+export default [p1];
